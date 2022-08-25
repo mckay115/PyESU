@@ -1,11 +1,13 @@
+# PyESU
+
+### Why does PyESU exist?
+The goal of PyESU is to bring some features into the original [*PyUpdater*](https://github.com/Digital-Sapphire/PyUpdater) codebase that have been sitting as open pull requests for a while. The original author has been busy with other projects and has not had time to review and merge these pull requests. PyESU is a fork of the original PyUpdater codebase that will be maintained by the community. If the original author wishes to merge the changes back into the original codebase, that is fine. If not, then PyESU will continue to be maintained by the community.
 
 
+---
+# Original Repository
 
-
-
-# Original README
-
-## All Credit to Original Author and all Contributors:
+## Credit to Original Author and all Contributors:
 (*Best Attempt to Include all Contributors, if you are not listed, please let me know and I will add you*)
 
 Orignal Author: [**@JMSwag**](https://github.com/JMSwag) / [**Digital Sapphire**](https://github.com/Digital-Sapphire) [[**Website Link**](https://www.digitalsapphire.io/)]
@@ -31,6 +33,11 @@ Contributors:
 - [**@nverino**](https://github.com/nverino)
 - [**@gdetrez**](https://github.com/gdetrez)
 - [**@mrgum**](https://github.com/mrgum)
+
+
+---
+# Original Readme
+
 # [Project Update](https://github.com/Digital-Sapphire/PyUpdater/issues/320)
 
 [![](https://badge.fury.io/py/PyUpdater.svg)](http://badge.fury.io/py/PyUpdater)
